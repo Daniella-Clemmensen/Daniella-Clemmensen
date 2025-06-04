@@ -1,4 +1,4 @@
-<p align="left">Hello World and github!<br>Im Daniella a fulls-stack developer based in Odense</p>
+<p align="left">Hello World and github! <br> Is Daniella a full-stack developer based in Odense Odense</p>
 
 ###
 
