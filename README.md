@@ -1,29 +1,65 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=4B7DA9&background=F5F7FA00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Hi+I'm+Daniella+👋;A+passionate+Full-Stack+Software+Developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=4B7DA9&background=F5F7FA00&center=true&vCenter=true&width=1200&height=90&lines=Hi,+I'm+Daniella+👋;A+full-stack+developer+who+loves+architecture+and+building+meaningful+software👩‍💻">
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made_with-Love-D5A76F?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Coffee-Powered-4B7DA9?style=flat-square&logo=buymeacoffee&logoColor=white">
-</p>
 
 ---
 
 ### 💡 About Me
-- 🔧 Building **Angular** frontends with a focus on clean architecture and **design systems**
-- 🌿 I believe in **Nordic simplicity** mixed with a splash of creativity
-- 🍫 Developer by day, **brownie-baker** by night
-- 🛼 Loves roller skating, and meaningful code
+
+
+- 🔭 Currently focused on **Full-Stack Development** (Frontend ⚡ + Backend 💾 + DevOps ⚙️), with a strong emphasis on clean architecture and design systems  
+- 🌱 On a mission to master full-stack engineering — from UI to cloud  
+- 💻 Passionate about building clean, scalable, and production-ready applications  
+- 🌍 Open to new opportunities where I can grow and contribute  
+- 🍰 Often brings cake to the office (yes, really)  
+- 📚 Currently learning: **Next.js** and **cloud architecture**
+
 
 ---
 
 ### 🛠 Tech Stack
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-4B7DA9?style=flat-square&logo=typescript&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-2B2E32?style=flat-square&logo=csharp&logoColor=D5A76F)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-C9D8E4?style=flat-square&logo=tailwindcss&logoColor=4B7DA9)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
+</div>
 
 ---
 
@@ -33,7 +69,7 @@
 > A creative portfolio with theme toggle, beautiful UI, and clean code  
 > 🛠 Angular · TailwindCSS · Inter font · Dark/light mode
 
-#### 🔗 [PolyscopeX](https://github.com/your-repo)
+#### 🔗 [](https://github.com/your-repo)
 > Operator UI for welding robotics using Atomic Design principles  
 > 🛠 Angular · URCap · Clean Architecture
 
@@ -41,18 +77,9 @@
 > NFC keychains designed and printed for Odense Zoo  
 > 🛠 Fusion360 · Cura · Bambu Lab · PLA-HS
 
----
 
 ### 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B7DA9?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniella-clemmensen)  
-📫 [daniella@email.com](mailto:daniella@email.com)
+📫 [dani2610@live.dk](mailto:dani2610@live.dk)
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nordisk%20simplicity-D5A76F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Creativity%20inside-4B7DA9?style=for-the-badge">
-</p>
-
-<p align="center"><em>“Professionalisme med varme” – Welcome to my code garden 🌱</em></p>
